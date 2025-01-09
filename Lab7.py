@@ -5,6 +5,7 @@ from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 import time
 
+
 X = load_wine().data
 time_r = []
 shape = []
